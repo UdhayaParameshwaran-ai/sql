@@ -56,7 +56,7 @@ CALL PlaceOrder(1);
 
 ## Author
 
-**Your Name** | [GitHub](https://github.com/your-username) | [LinkedIn](https://linkedin.com/in/yourprofile)
+**Udhaya parameshwaran** | [GitHub](https://github.com/UdhayaParameshwaran-ai)
 
 ## License
 
